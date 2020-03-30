@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14221" started-at="2020-03-17T01:00:00Z" finished-at="2020-03-17T01:00:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14221" started-at="2020-03-17T01:00:00Z" finished-at="2020-03-17T01:00:14Z">
+      <class name="DriverTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:DriverTest@6767c1fc]" name="setup" is-config="true" duration-ms="7967" started-at="2020-03-17T01:00:00Z" finished-at="2020-03-17T01:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:DriverTest@6767c1fc]" name="test" duration-ms="6200" started-at="2020-03-17T01:00:08Z" finished-at="2020-03-17T01:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- DriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
